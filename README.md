@@ -51,6 +51,8 @@
 </p>
   </details>
 <br/>
+<a href="https://github.com/durgesh-4526"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=durgesh-4526&bg_color=aabbff00&color=4285f4&line=34d853&point=34d85300&area=true&hide_border=true&hide_title=true&area_color=34d853" />
+      </a></p>
 <br/>
 <div align="center">
     <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
