@@ -56,8 +56,8 @@
       </a></p>
 <br/>
 <a href="https://github.com/durgesh-4526"><img align="center" src="https://github-profile-trophy.vercel.app/?username=durgesh-4526&row=1&no-bg=true"/></a>
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh-4526&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-4526&theme=great-gatsby&layout=compact)](https://github.com/durgesh-4526)
+<a href="https://github.com/durgesh-4526"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgesh-4526&show_icons=true&count_private=true&theme=great-gatsby/></a> </br>
+<a href="https://github.com/durgesh-4526"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-4526&theme=great-gatsby&layout=compact"/></a>
 </br>
 
 <div align="center">
