@@ -59,7 +59,6 @@
 
 <a href="https://github.com/durgesh-4526"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact"/></a>
 </br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <div align="center">
     <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
     <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
