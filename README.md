@@ -57,7 +57,7 @@
 <br/>
 (https://github-profile-trophy.vercel.app/?username=durgesh-4526&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh-4526&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-4526&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-4526&theme=great-gatsby&layout=compact)](https://github.com/durgesh-4526)
 </br>
 
 <div align="center">
