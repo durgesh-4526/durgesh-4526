@@ -60,38 +60,7 @@
 <a href="https://github.com/durgesh-4526"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact"/></a>
 </br>
 <div align="center">
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
-    <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-    </div>
-    <br/>
+<h2 align="centre">Visitor Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{avinIndrasoma}/count.svg" /></p> 
+<br>
+</div>
