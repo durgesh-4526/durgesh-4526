@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hello 👋</h1> -->
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24"> Mahak Garg </h1>
-<h3 align="center">Hello mahak</h3>
+<h3 align="center">Hello Durgesh Sahu</h3>
 <img align = "right" alt="coding" width="560" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-4526&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-4526" /> </p>
 
