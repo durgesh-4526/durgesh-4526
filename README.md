@@ -49,6 +49,17 @@
      </div> -->
 
 <!-- </div> -->
+
+
+<!-- LeetCode Stats Card ❤️ -->
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<h2 align="center"><img src="https://github.com/Durgesh-4526/durgesh-4526/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/durgeshsahu7" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=durgeshsahu7&theme=dark&extension=activity&border_radius=10"/>
+  </a>
+</p>
+
 </p>
   </details>
 <br/>
